@@ -1,2 +1,2 @@
 # Private-School
-importer user.sql dans la base de données MySql
+importer users.sql dans la base de données MySql
